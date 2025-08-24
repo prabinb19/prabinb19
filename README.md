@@ -24,7 +24,6 @@ alt="prabinb19" /></a> </p>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinb19&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabinb19&theme=dracula&exclude=jupyter%20Notebook)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabinb19&theme=dracula&exclude=Jupyter%20Notebook)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabinb19&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinb19&theme=dracula&utcOffset=-6)
@@ -41,9 +40,3 @@ alt="prabinb19" /></a> </p>
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-
-
-## Visitor
-![Vein](https://profile-counter.glitch.me/prabinb19/count.svg)
