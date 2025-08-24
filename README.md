@@ -22,9 +22,6 @@ alt="prabinb19" /></a> </p>
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinb19&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabinb19&theme=dracula&exclude=jupyter%20Notebook)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabinb19&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinb19&theme=dracula&utcOffset=-6)
 
