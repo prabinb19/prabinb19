@@ -1,39 +1,37 @@
 ### Hello there 👋🏻
 
-I'm Prabin. I learn to code whenever I have time.
+I'm Prabin — a developer focused on **AI security** and building useful things with code.
 
-<!---
-<p><img
- align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinb19&langs_count=12&layout=donut"
- alt="prabinb19" /></p> */
--->
-<!--
-<p>&nbsp;<img 
-align="center" 
-src="https://github-readme-stats.vercel.app/api?username=prabinb19&show_icons=true&locale=en"
- alt="prabinb19" /></p>
- -->
-<!--<p
- align="left"> <a 
-href="https://github.com/ryo-ma/github-profile-trophy"><img 
-src="https://github-profile-trophy.vercel.app/?username=prabinb19" 
-alt="prabinb19" /></a> </p>
--->
+Currently part of **CodePath x GitLab AI301**, where I'm contributing directly to GitLab's open-source codebase through merge requests, collaborating in office hours and standups with GitLab engineers, and deepening my understanding of AI-powered development workflows.
+
+---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinb19&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabinb19&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinb19&theme=dracula&utcOffset=-6)
 
+## 🔐 Current Focus
+
+- **AI Security** — studying adversarial attacks, prompt injection defenses, and secure AI system design
+- **Open Source** — shipping merge requests to GitLab's open-source repo as part of CodePath x GitLab AI301
+- **Collaboration** — participating in office hours and standups with GitLab engineers
+
+## 🚀 Projects
+
+| Project | Description |
+|---------|-------------|
+| **DevShowcase** | Transforms GitHub repos into polished LinkedIn posts using AI. FastAPI + LangGraph + Next.js pipeline that ingests, analyzes, and generates ready-to-post content. |
+| **Suga** | AI workflow automation for support teams. |
+
 ## 💼 Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
