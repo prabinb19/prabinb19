@@ -20,11 +20,8 @@ Currently part of **CodePath x GitLab AI301**, where I'm contributing directly t
 
 | Project | Description |
 |---------|-------------|
-|**[DevShowcase](https://github.com/prabinb19/devshowcase)** | Transforms
-  GitHub repos into polished LinkedIn posts using AI. FastAPI + LangGraph +
-  Next.js pipeline that ingests, analyzes, and generates ready-to-post content.
- |
-| **Suga** | AI workflow automation for support teams. |
+| **[DevShowcase](https://github.com/prabinb19/devshowcase)** | Transforms GitHub repos into polished LinkedIn posts using AI. FastAPI + LangGraph + Next.js pipeline that ingests, analyzes, and generates ready-to-post content. |
+| **[Suga](https://suga.cx)** | AI workflow automation for support teams. |
 
 ## 💼 Skills
 
