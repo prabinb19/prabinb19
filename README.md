@@ -14,13 +14,16 @@ Currently part of **CodePath x GitLab AI301**, where I'm contributing directly t
 
 - **AI Security** — studying adversarial attacks, prompt injection defenses, and secure AI system design
 - **Open Source** — shipping merge requests to GitLab's open-source repo as part of CodePath x GitLab AI301
-- **Collaboration** — participating in office hours and standups with GitLab engineers
+  
 
 ## 🚀 Projects
 
 | Project | Description |
 |---------|-------------|
-| **DevShowcase** | Transforms GitHub repos into polished LinkedIn posts using AI. FastAPI + LangGraph + Next.js pipeline that ingests, analyzes, and generates ready-to-post content. |
+|**[DevShowcase](https://github.com/prabinb19/devshowcase)** | Transforms
+  GitHub repos into polished LinkedIn posts using AI. FastAPI + LangGraph +
+  Next.js pipeline that ingests, analyzes, and generates ready-to-post content.
+ |
 | **Suga** | AI workflow automation for support teams. |
 
 ## 💼 Skills
