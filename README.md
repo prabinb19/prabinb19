@@ -1,8 +1,8 @@
 ### Hello there 👋🏻
 
-I'm Prabin — a developer focused on **AI security** and building useful things with code.
+I'm Prabin, a software engineer focused on **AI security** and building useful things with code.
 
-Currently part of **CodePath x GitLab AI301**, where I'm contributing directly to GitLab's open-source codebase through merge requests, collaborating in office hours and standups with GitLab engineers, and deepening my understanding of AI-powered development workflows.
+I'm currently a **Software Engineer at ArroyoDev**, working on **[Illumibot](https://illumibot.ai/)**, the first AI Personalized Projection app that turns any surface into an interactive canvas. Alongside that I'm building **Suga** and **SpireHub**, and contributing to GitLab's open-source codebase through **CodePath's AI capstone program**.
 
 ---
 
@@ -12,16 +12,17 @@ Currently part of **CodePath x GitLab AI301**, where I'm contributing directly t
 
 ## 🔐 Current Focus
 
-- **AI Security** — studying adversarial attacks, prompt injection defenses, and secure AI system design
-- **Open Source** — shipping merge requests to GitLab's open-source repo as part of CodePath x GitLab AI301
-  
+- **AI Security**: studying adversarial attacks, prompt injection defenses, and secure agent design. Auditing default-configuration security across major Python agent frameworks.
+- **Building Suga**: leading engineering on an AI customer support platform with a self-building workflow engine.
+- **Open Source**: shipping merge requests to GitLab as part of CodePath's AI capstone (summer cohort). My [previous cohort](https://gitlab.com/prabinb19/sp26-gitlab-contribution) ended with 4 MRs merged.
 
 ## 🚀 Projects
 
 | Project | Description |
 |---------|-------------|
-| **[DevShowcase](https://github.com/prabinb19/devshowcase)** | Transforms GitHub repos into polished LinkedIn posts using AI. FastAPI + LangGraph + Next.js pipeline that ingests, analyzes, and generates ready-to-post content. |
-| **[Suga](https://suga.cx)** | AI workflow automation for support teams. |
+| **[Suga](https://suga.cx)** | AI-powered omnichannel customer support platform with a self-building workflow engine. |
+| **[SpireHub](https://spirehub.net)** | Fan community platform for Slay the Spire. ~19k monthly visits from 55 countries. |
+| **[DevShowcase](https://github.com/prabinb19/devshowcase)** | Turns GitHub repos into polished LinkedIn posts. FastAPI + LangGraph + Next.js pipeline with sandboxed E2B execution, SSRF prevention, secret redaction, and 155 security tests. |
 
 ## 💼 Skills
 
