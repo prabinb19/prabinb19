@@ -16,7 +16,7 @@ Software engineer. Building with AI security.
 
 **Co-founder & Engineer @ [Suga](https://suga.cx).** AI omnichannel customer support platform with a self-building workflow engine.
 
-**Open Source @ GitLab.** Shipping merge requests to the monorepo through CodePath's AI capstone.
+**Open Source @ [GitLab](https://gitlab.com/prabinb19/sp26-gitlab-contribution).** Shipping merge requests to the monorepo through CodePath's AI capstone.
 
 ---
 
@@ -30,7 +30,7 @@ AI security is the throughline. I audit default-configuration security across th
 
 | Project | What I Did | Status |
 | --- | --- | --- |
-| **GitLab** (CodePath AI capstone) | Merged MRs across the monorepo: notes utility refactor, Vue lint rule fixes, usage billing component fixes | 4 merged, summer cohort in progress |
+| **[GitLab](https://gitlab.com/prabinb19/sp26-gitlab-contribution)** (CodePath AI capstone) | Merged MRs across the monorepo: notes utility refactor, Vue lint rule fixes, usage billing component fixes | 4 merged, summer cohort in progress |
 
 ---
 
